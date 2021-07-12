@@ -17,4 +17,4 @@ Row 2 (Summed)
 Total
 
 Generate all types of graphs that are possible for the data given
-- create decesion function
+- create decision function
